@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "title": "Lumintu Global | Worldwide Employment Partner",
+    "description": "Program Penyaluran Kerja Luar Negeri Resmi, Terlatih, dan Berizin bersama Kadin Kabupaten Sukabumi."
+  },
+  "topbar": {
+    "announcement": "Mitra Resmi Penempatan:",
+    "partnerName": "Kadin Kabupaten Sukabumi",
+    "hotlineLabel": "Hotline Seleksi:",
+    "hotlineNumber": "0812-1625-1213",
+    "entityName": "PT Limpah Luhur Lumintu"
+  },
+  "nav": {
+    "home": "Beranda",
+    "jobs": "Peluang Kerja",
+    "jobsMenu": {
+      "categoryTitle": "Kategori Program",
+      "skilledTitle": "Skilled Worker Program",
+      "skilledDesc": "Keperawatan, hospitaliti, IT & teknisi profesional",
+      "skilledBadge": "Formal",
+      "generalTitle": "General Worker Program",
+      "generalDesc": "Manufaktur pabrik, konstruksi, & agrikultur",
+      "generalBadge": "Vokasi",
+      "destinationsTitle": "Destinasi Utama",
+      "japan": "Jepang (SSW & Magang)",
+      "germany": "Jerman (Ausbildung)",
+      "middleEast": "Timur Tengah (Hospitality)",
+      "viewAll": "Lihat Seluruh Lowongan Aktif →"
+    },
+    "guideMenu": {
+        "workflowTitle": "Alur Penempatan",
+        "workflowDesc": "4 tahapan resmi dari skrining hingga keberangkatan.",
+        "docsTitle": "Syarat Dokumen",
+        "docsDesc": "Persiapan MCU, paspor, dan sertifikasi bahasa.",
+        "financeTitle": "Transparansi Biaya & Pembiayaan",
+        "financeDesc": "Rincian biaya mandiri dan opsi talangan dana keberangkatan."
+    },
+    "blog": "Blog & Berita",
+    "about": "Tentang Kami",
+    "aboutMenu": {
+      "profileTitle": "Profil & Legalitas",
+      "profileDesc": "PT Limpah Luhur Lumintu",
+      "partnerTitle": "Kemitraan Resmi",
+      "partnerDesc": "Sinergi Kadin Sukabumi",
+      "contactTitle": "Kantor & Layanan",
+      "contactDesc": "Pusat verifikasi & interview fisik"
+    },
+    "ctaRegister": "Daftar Sekarang"
+  },
+  "hero": {
+    "titlePrefix": "Peluang Kerja",
+    "titleHighlight": "Luar Negeri",
+    "subtitle": "Menjembatani potensi Lokal menuju panggung Global. Resmi, terlatih, dan terproteksi legalitas hukum.",
+    "ctaSkilled": "Skilled Worker Program",
+    "ctaGeneral": "General Worker Program",
+    "trustPoints": {
+      "noBrokers": "Tanpa Calo",
+      "integratedTraining": "Pelatihan Terpadu",
+      "officialPlacement": "Penempatan Resmi"
+    }
+  },
+  "trackSplitter": {
+    "sectionTitle": "Pilih Jalur Karir",
+    "sectionSubtitle": "Kualifikasi dan tujuan yang berbeda membutuhkan jalur penempatan yang spesifik.",
+    "skilled": {
+        "badge": "Jalur Formal",
+        "title": "Skilled Worker",
+        "description": "Diperuntukkan bagi profesional dengan gelar akademik, lisensi, atau sertifikasi kompetensi spesifik (SSW/Profesi).",
+        "points": [
+        "Lulusan D3/S1 (Keperawatan, IT, Teknik, Hospitality)",
+        "Wajib sertifikasi bahasa tingkat menengah (N4/B1)",
+        "Kontrak kerja jangka panjang & visibilitas karir"
+        ],
+        "cta": "Eksplorasi Jalur Skilled"
+    },
+    "general": {
+        "badge": "Jalur Vokasi",
+        "title": "General Worker",
+        "description": "Kesempatan kerja teknis di sektor manufaktur, konstruksi, dan agrikultur untuk lulusan sekolah menengah.",
+        "points": [
+        "Minimal lulusan SMA/SMK sederajat semua jurusan",
+        "Pelatihan bahasa & skill teknis intensif dari nol",
+        "Proses penempatan terstruktur & subsidi biaya awal"
+        ],
+        "cta": "Eksplorasi Jalur General"
+    }
+    },
+  "common": {
+    "language": "Bahasa",
+    "contactWhatsApp": "Konsultasi WhatsApp",
+    "readMore": "Baca Selengkapnya",
+    "applyNow": "Lamar Posisi Ini",
+    "loading": "Memuat...",
+    "salaryEstimate": "Estimasi Gaji"
+  }
+}

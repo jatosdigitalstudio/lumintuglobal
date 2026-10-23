@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "title": "Lumintu Global | Worldwide Employment Partner",
+    "description": "Official, Trained, and Licensed Overseas Placement Program in Partnership with Kadin Sukabumi Regency."
+  },
+  "topbar": {
+    "announcement": "Official Placement Partner:",
+    "partnerName": "Kadin Sukabumi Regency",
+    "hotlineLabel": "Selection Hotline:",
+    "hotlineNumber": "0812-1625-1213",
+    "entityName": "PT Limpah Luhur Lumintu"
+  },
+  "nav": {
+    "home": "Home",
+    "jobs": "Careers",
+    "jobsMenu": {
+      "categoryTitle": "Program Categories",
+      "skilledTitle": "Skilled Worker Program",
+      "skilledDesc": "Nursing, hospitality, IT & professional technicians",
+      "skilledBadge": "Formal",
+      "generalTitle": "General Worker Program",
+      "generalDesc": "Plant manufacturing, construction, & agriculture",
+      "generalBadge": "Vocational",
+      "destinationsTitle": "Key Destinations",
+      "japan": "Japan (SSW & Technical Intern)",
+      "germany": "Germany (Ausbildung)",
+      "middleEast": "Middle East (Hospitality)",
+      "viewAll": "View All Active Openings →"
+    },
+    "guideMenu": {
+        "workflowTitle": "Placement Workflow",
+        "workflowDesc": "4 official stages from screening to departure.",
+        "docsTitle": "Document Requirements",
+        "docsDesc": "MCU preparation, passport, and language certification.",
+        "financeTitle": "Cost Transparency & Financing",
+        "financeDesc": "Details of out-of-pocket costs and departure funding options."
+    },
+    "blog": "Blog & Insights",
+    "about": "About Us",
+    "aboutMenu": {
+      "profileTitle": "Corporate Profile & Legality",
+      "profileDesc": "PT Limpah Luhur Lumintu",
+      "partnerTitle": "Official Partnership",
+      "partnerDesc": "Strategic synergy with Kadin Sukabumi",
+      "contactTitle": "Offices & Support",
+      "contactDesc": "Physical interview and verification hub"
+    },
+    "ctaRegister": "Apply Now"
+  },
+  "hero": {
+    "titlePrefix": "Overseas Work",
+    "titleHighlight": "Program",
+    "subtitle": "Bridging local talent to the global stage. Licensed, rigorously trained, and legally protected.",
+    "ctaSkilled": "Skilled Worker Program",
+    "ctaGeneral": "General Worker Program",
+    "trustPoints": {
+      "noBrokers": "Zero Middlemen",
+      "integratedTraining": "Integrated Training",
+      "officialPlacement": "Statutory Placement"
+    }
+  },
+  "trackSplitter": {
+  "sectionTitle": "Choose Your Path",
+  "sectionSubtitle": "Different qualifications and goals require specific placement tracks.",
+  "skilled": {
+    "badge": "Formal Track",
+    "title": "Skilled Worker",
+    "description": "Designed for professionals with academic degrees, licenses, or specific competency certifications (SSW/Professional).",
+    "points": [
+      "Diploma/Bachelor graduates (Nursing, IT, Engineering)",
+      "Intermediate language certification required (N4/B1)",
+      "Long-term employment contracts & clear career paths"
+    ],
+    "cta": "Explore Skilled Track"
+  },
+  "general": {
+    "badge": "Vocational Track",
+    "title": "General Worker",
+    "description": "Technical employment opportunities in manufacturing, construction, and agriculture for high school graduates.",
+    "points": [
+      "High school / vocational school graduates (all majors)",
+      "Intensive language & technical training from scratch",
+      "Structured placement process & initial cost subsidies"
+    ],
+    "cta": "Explore General Track"
+  }
+},
+  "common": {
+    "language": "Language",
+    "contactWhatsApp": "WhatsApp Inquiries",
+    "readMore": "Read More",
+    "applyNow": "Apply for this Role",
+    "loading": "Loading...",
+    "salaryEstimate": "Estimated Remuneration"
+  }
+}
