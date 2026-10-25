@@ -2,14 +2,14 @@ import { getDictionary, type Locale } from '@/dictionaries/get-dictionary';
 import destinationsData from '@/data/destinations.json';
 import RegistrationClient from '@/components/pages/RegistrationClient';
 
-// 1. Buat tipe data Universal untuk mengatasi bentrok versi Next.js 14 vs 15
+export const dynamic = 'force-dynamic';
+
 type PageProps = {
   params: Promise<{ lang: string }> | { lang: string };
   searchParams: Promise<{ [key: string]: string | string[] | undefined }> | { [key: string]: string | string[] | undefined };
 };
 
-// 2. Metadata SEO juga harus aman
-export async function generateMetadata(props: { params: Promise<{ lang: string }> | { lang: string } }) {
+export async function generateMetadata(props: PageProps) {
   const resolvedParams = await props.params;
   const lang = resolvedParams.lang === 'en' ? 'en' : 'id';
   
@@ -19,17 +19,14 @@ export async function generateMetadata(props: { params: Promise<{ lang: string }
 }
 
 export default async function RegistrationPage(props: PageProps) {
-  // 3. Await parameter secara aman 
   const resolvedParams = await props.params;
   const resolvedSearchParams = await props.searchParams;
   
   const lang = (resolvedParams.lang || 'id') as Locale;
   const dict = await getDictionary(lang);
   
-  // Ambil query "?job=..." dari URL
   const jobId = typeof resolvedSearchParams.job === 'string' ? resolvedSearchParams.job : null;
 
-  // Cari data pekerjaan jika user datang membawa parameter ?job=id
   let appliedJob = null;
   if (jobId) {
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
