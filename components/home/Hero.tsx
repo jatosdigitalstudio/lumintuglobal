@@ -248,7 +248,7 @@ export default function Hero({ lang, dict }: HeroProps) {
             </motion.div>
 
             {/* Trust Markers */}
-            <motion.div variants={fadeUpVariants} className="mt-10 lg:mt-12 flex flex-col sm:flex-row sm:flex-wrap items-start sm:items-center gap-4 sm:gap-6 border-t border-slate-100 pt-6 lg:pt-8 w-full max-w-2xl">
+            {/* <motion.div variants={fadeUpVariants} className="mt-10 lg:mt-12 flex flex-col sm:flex-row sm:flex-wrap items-start sm:items-center gap-4 sm:gap-6 border-t border-slate-100 pt-6 lg:pt-8 w-full max-w-2xl">
               {[
                 dict.hero?.trustPoints?.noBrokers ?? '100% Transparan & Bebas Calo',
                 dict.hero?.trustPoints?.integratedTraining ?? 'Fasilitas Pelatihan Terpadu',
@@ -259,7 +259,7 @@ export default function Hero({ lang, dict }: HeroProps) {
                   <span>{point}</span>
                 </div>
               ))}
-            </motion.div>
+            </motion.div> */}
           </motion.div>
 
           {/* RIGHT COLUMN: Modern Arch Image with Subtly Floating Aligned Benefits */}
