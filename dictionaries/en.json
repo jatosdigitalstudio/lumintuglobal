@@ -1,11 +1,11 @@
 {
   "metadata": {
     "title": "Lumintu Global | Worldwide Employment Partner",
-    "description": "Official, Trained, and Licensed Overseas Placement Program in Partnership with Kadin Sukabumi Regency."
+    "description": "Official, Trained, and Licensed Overseas Placement Program in Partnership with Kadin Sukabumi City."
   },
   "topbar": {
     "announcement": "Official Placement Partner:",
-    "partnerName": "Kadin Sukabumi Regency",
+    "partnerName": "Kadin Sukabumi City",
     "hotlineLabel": "Selection Hotline:",
     "hotlineNumber": "0812-1625-1213",
     "entityName": "PT Limpah Luhur Lumintu"
@@ -32,7 +32,7 @@
         "workflowDesc": "4 official stages from screening to departure.",
         "docsTitle": "Document Requirements",
         "docsDesc": "MCU preparation, passport, and language certification.",
-        "financeTitle": "Cost Transparency & Financing",
+        "financeTitle": "Financing",
         "financeDesc": "Details of out-of-pocket costs and departure funding options."
     },
     "blog": "Blog & Insights",
@@ -43,7 +43,7 @@
       "partnerTitle": "Official Partnership",
       "partnerDesc": "Strategic synergy with Kadin Sukabumi",
       "contactTitle": "Offices & Support",
-      "contactDesc": "Physical interview and verification hub"
+      "contactDesc": "Physical interview and verification"
     },
     "ctaRegister": "Apply Now"
   },
@@ -60,30 +60,239 @@
     }
   },
   "trackSplitter": {
-  "sectionTitle": "Choose Your Path",
-  "sectionSubtitle": "Different qualifications and goals require specific placement tracks.",
-  "skilled": {
-    "badge": "Formal Track",
-    "title": "Skilled Worker",
-    "description": "Designed for professionals with academic degrees, licenses, or specific competency certifications (SSW/Professional).",
-    "points": [
-      "Diploma/Bachelor graduates (Nursing, IT, Engineering)",
-      "Intermediate language certification required (N4/B1)",
-      "Long-term employment contracts & clear career paths"
-    ],
-    "cta": "Explore Skilled Track"
+    "sectionTitle": "Choose Your Path",
+    "sectionSubtitle": "Different qualifications and goals require specific placement tracks.",
+    "skilled": {
+        "badge": "Formal Track",
+        "title": "Skilled Worker",
+        "description": "Designed for professionals with academic degrees, licenses, or specific competency certifications (SSW/Professional).",
+        "points": [
+        "Diploma/Bachelor graduates (Nursing, IT, Engineering)",
+        "Intermediate language certification required (N4/B1)",
+        "Long-term employment contracts & clear career paths"
+        ],
+        "cta": "Explore Skilled Track"
+    },
+    "general": {
+        "badge": "Vocational Track",
+        "title": "General Worker",
+        "description": "Technical employment opportunities in manufacturing, construction, and agriculture for high school graduates.",
+        "points": [
+        "High school / vocational school graduates (all majors)",
+        "Intensive language & technical training from scratch",
+        "Structured placement process & initial cost subsidies"
+        ],
+        "cta": "Explore General Track"
+    }
+},
+"jobRadar": {
+  "sectionTitle": "Global Placement",
+  "sectionSubtitle": "Official career opportunities in developed countries with high welfare standards and full legal protection.",
+  "viewAll": "View All Destinations",
+  "exploreLabel": "Explore Jobs"
+},
+"placementRoadmap": {
+  "badge": "Placement Roadmap",
+  "title": "Transparent & Structured Process",
+  "subtitle": "From the initial interview to final departure, we ensure every step follows official procedures and strict legal standards.",
+  "steps": [
+    {
+      "num": "01",
+      "title": "Interview & Selection",
+      "desc": "Initial selection process conducted online or offline to perfectly match candidate qualifications with employer criteria."
+    },
+    {
+      "num": "02",
+      "title": "Official Work Contract",
+      "desc": "Signing a transparent employment contract that protects rights, obligations, and guarantees salary standards prior to training."
+    },
+    {
+      "num": "03",
+      "title": "Training & Certification",
+      "desc": "Language and technical competency training in dormitories until official certification (BNSP or equivalent) is obtained."
+    },
+    {
+      "num": "04",
+      "title": "Departure & Placement",
+      "desc": "Full processing of visas, medical check-ups, and immigration documents until the candidate departs safely for the destination."
+    }
+  ]
+},
+"faq": {
+  "badge": "Information Center",
+  "title": "Frequently Asked Questions",
+  "subtitle": "Find quick answers regarding the procedures, legality, and requirements of Lumintu Global's overseas placement programs.",
+  "contactCta": "Have other questions? Contact Us",
+  "items": [
+    {
+      "q": "Is this program official and legally safe?",
+      "a": "Yes, 100% official. PT Limpah Luhur Lumintu (Lumintu Global) operates as an official partner of Kadin Sukabumi, and all placements are registered and supervised by BP2MI and the Indonesian Ministry of Manpower."
+    },
+    {
+      "q": "Are there upfront registration fees or broker charges?",
+      "a": "We enforce strict transparency. There are zero 'broker fees'. Some programs, like the General Worker track to Malaysia, are Zero Cost (no placement fees). For other tracks, official costs are fully detailed before you sign any contract."
+    },
+    {
+      "q": "Is a foreign language certificate required before applying?",
+      "a": "It depends on the track. The General Worker track (e.g., Malaysia/Middle East) usually does not require language certification. For the Formal/Skilled track (Japan/Germany), we provide integrated language training if you don't already have a certificate."
+    },
+    {
+      "q": "Can I apply if my highest education is only Junior or Senior High School?",
+      "a": "Absolutely. We have a Vocational Track (General Worker) specifically designed for Junior/Senior High School (SMP/SMA/SMK) graduates. You will receive basic skills training prior to departure."
+    },
+    {
+      "q": "How long does the process take from application to departure?",
+      "a": "The timeline varies by destination and document readiness. The General Worker track (e.g., Malaysia) takes an estimated 2-3 months. The Skilled Worker track (e.g., Japan/Germany) may take 4-8 months due to mandatory language and competency certification training."
+    }
+  ]
+},
+"footer": {
+  "ctaTitle": "Start Your Global Career Today.",
+  "ctaButton": "Free Consultation",
+  "menus": [
+    {
+      "title": "Company",
+      "links": [
+        { "name": "About Us", "href": "/about-us" },
+        { "name": "Legality & Licenses", "href": "/legality" },
+        { "name": "Partnerships", "href": "/partnerships" }
+      ]
+    },
+    {
+      "title": "Programs",
+      "links": [
+        { "name": "Skilled Worker", "href": "/jobs/skilled" },
+        { "name": "General Worker", "href": "/jobs/general" },
+        { "name": "Integrated Training", "href": "/training" }
+      ]
+    },
+    {
+      "title": "Support",
+      "links": [
+        { "name": "Process Guide", "href": "/guide" },
+        { "name": "FAQ", "href": "/faq" },
+        { "name": "Contact Us", "href": "/contact" }
+      ]
+    }
+  ],
+  "contact": {
+    "title": "Contact",
+    "email": "info@lumintuglobal.com",
+    "phone": "+62 812-1625-1213",
+    "address": "Sukabumi City, West Java, Indonesia"
   },
-  "general": {
-    "badge": "Vocational Track",
-    "title": "General Worker",
-    "description": "Technical employment opportunities in manufacturing, construction, and agriculture for high school graduates.",
+ "brandDesc": "PT Limpah Luhur Lumintu (Lumintu Global). Official partner of Kadin Sukabumi for the placement of professional and skilled workforce overseas under strict legal standards.",
+  "officialPartner": "Official Partner",
+  "copyright": "© 2026 PT Limpah Luhur Lumintu. All Rights Reserved.",
+  "privacyPolicy": "Privacy Policy",
+  "termsConditions": "Terms & Conditions"
+},
+"jobList": {
+  "badge": "Career Catalog",
+  "title": "Explore Job Opportunities",
+  "subtitle": "Find official placement positions that match your qualifications and global career goals.",
+  "filters": {
+    "all": "All Tracks",
+    "skilled": "Formal Track (Skilled)",
+    "general": "Vocational Track (General)"
+  },
+  "exploreLabel": "Explore Jobs"
+},
+"registration": {
+  "title": "Register & Apply",
+  "subtitle": "Please enter your details to proceed with your application",
+  "applyingFor": "Applying for",
+  "fields": {
+    "name": "Full Name as per ID",
+    "phone": "Active WhatsApp Number",
+    "age": "Age (Years)",
+    "education": "Highest Education (Junior High/High School/Degree)",
+    "domicile": "Current City of Residence"
+  },
+  "terms": "I have read and agree to the Terms and Conditions and Privacy Policy.",
+  "submit": "Submit Application (via WhatsApp)",
+  "whatsappNumber": "6282124981959",
+  "whatsappGreeting": "Hello Lumintu Global Team, I would like to apply for the position listed on the website:"
+},
+"guide": {
+  "title": "Process & Guidelines",
+  "subtitle": "Understand each stage, document requirements, and cost structure for your departure preparation with Lumintu Global.",
+  "workflow": {
+    "title": "Workflow",
+    "steps": [
+      { "title": "Registration & Interview", "desc": "Initial interview to match your qualifications with the employer's needs." },
+      { "title": "Contract Signing", "desc": "Successful candidates will sign an official employment contract prior to departure." },
+      { "title": "Training & Dormitory", "desc": "Participate in competency/language training at our dormitory to meet destination standards." },
+      { "title": "Documentation & Visa", "desc": "Processing of travel documents, Medical Check-Up (MCU), and Working Visa." },
+      { "title": "Departure", "desc": "Flight to the destination country and orientation upon arrival at the workplace." }
+    ]
+  },
+  "documents": {
+    "title": "Basic Document Requirements",
+    "items": [
+      "National ID (KTP) & Family Card (KK)",
+      "Latest Education Certificate (Original)",
+      "Birth Certificate",
+      "Family / Spouse Consent Letter",
+      "Police Clearance Certificate (SKCK)",
+      "Passport (Can be submitted later if not available)"
+    ]
+  },
+  "finance": {
+    "title": "Cost Transparency",
+    "desc": "Lumintu Global upholds integrity and full transparency. We adopt a strict No Hidden Fees policy.",
     "points": [
-      "High school / vocational school graduates (all majors)",
-      "Intensive language & technical training from scratch",
-      "Structured placement process & initial cost subsidies"
-    ],
-    "cta": "Explore General Track"
+      { "title": "Zero Cost Program", "desc": "For specific tracks such as General Worker to Malaysia (KP2MI Track), applicants are not charged any placement fees." },
+      { "title": "Skilled Worker Program", "desc": "For destinations like Japan or Germany, details regarding registration, language training, and visa processing costs will be thoroughly explained on paper before you agree to any contract." }
+    ]
   }
+},
+"about": {
+  "badge": "Company Profile",
+  "title": "Building Global Careers, Securing Futures",
+  "subtitle": "PT Limpah Luhur Lumintu (Lumintu Global) is dedicated to opening access for Indonesian professional and vocational workforce to international markets legally, safely, and with dignity.",
+  "vision": {
+    "title": "Our Vision",
+    "desc": "To become the leading and most trusted overseas employment placement agency (P3MI) in Indonesia, prioritizing the protection, welfare, and competency development of Indonesian Migrant Workers."
+  },
+  "mission": {
+    "title": "Our Mission",
+    "items": [
+      "Provide 100% official and verified overseas job opportunities.",
+      "Offer comprehensive dormitory facilities, technical training, and language certification.",
+      "Ensure a transparent placement process and eradicate illegal brokerage (No Hidden Fees).",
+      "Collaborate closely with government agencies, BP2MI, and regional strategic partners."
+    ]
+  },
+
+  "legality": {
+    "title": "Legality & Compliance",
+    "desc": "We fully comply with the laws of the Republic of Indonesia. Our entire placement process is directly supervised by the government to ensure your rights and safety are guaranteed from departure until you return home.",
+    "licenses": [
+      "Official Ministry of Manpower License",
+      "Full Supervision by BP2MI",
+      "Integrated with SISKOP2MI System"
+    ]
+  },
+  "partnership": {
+    "badge": "Strategic Partner",
+    "title": "Kadin Sukabumi City",
+    "desc": "Lumintu Global is proud to be the official partner of the Indonesian Chamber of Commerce and Industry (Kadin) for the Sukabumi City. This synergy is specifically designed to advance the regional economy and elevate the global competitiveness of Sukabumi's human resources."
+  }
+},
+"contact": {
+  "badge": "Contact Us",
+  "title": "Start Your Global Career Journey",
+  "subtitle": "The Lumintu Global team is ready to assist you. Visit our office in Sukabumi or contact our customer service for official placement consultation.",
+  "info": {
+    "addressTitle": "Headquarters",
+    "address": "Sukabumi City, West Java, Indonesia",
+    "phoneTitle": "Phone & WhatsApp",
+    "phone": "+62 812-1625-1213",
+    "emailTitle": "Official Email",
+    "email": "info@lumintuglobal.com"
+  },
+  "cta": "Need quick help? Our support team is active during working hours (08:00 - 17:00 WIB)."
 },
   "common": {
     "language": "Language",

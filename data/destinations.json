@@ -1,0 +1,214 @@
+[
+  {
+    "id": "caregiver-singapore",
+    "track": "skilled",
+    "image": "/images/caregiver.jpg",
+    "translations": {
+      "id": {
+        "country": "Singapura",
+        "program": "Caregiver",
+        "salary": "SGD 600 - 1.000 / Bulan",
+        "radarDesc": "Kontrak kerja 2 tahun dengan fasilitas perlindungan asuransi penuh, akomodasi, dan makan.",
+        "title": "Domestic Worker / Caregiver",
+        "location": "Singapura",
+        "jobDescription": "Pekerja bertanggung jawab atas operasional rumah tangga harian, termasuk menjaga kebersihan lingkungan rumah tangga. Peran ini juga mencakup tugas perawatan (caregiving) untuk lansia atau anak-anak, memasak, dan manajemen rumah tangga sesuai instruksi pemberi kerja.",
+        "requirements": [
+          "Wanita, usia 23–40 tahun",
+          "Pendidikan minimal SMA/sederajat",
+          "Memiliki kemampuan dasar bahasa Inggris, Melayu, atau Indonesia",
+          "Pengalaman kerja minimal 2 tahun",
+          "Tinggi badan minimal 147 cm"
+        ],
+        "benefits": [
+          "Gaji kotor SGD 600 - SGD 1.000 per bulan",
+          "Akomodasi (tempat tinggal) disediakan",
+          "Makan sehari-hari disediakan",
+          "Perlindungan asuransi penuh disediakan",
+          "Libur 2-4 hari per bulan",
+          "Tiket kepulangan ditanggung pemberi kerja setelah kontrak selesai"
+        ]
+      },
+      "en": {
+        "country": "Singapore",
+        "program": "Caregiver",
+        "salary": "SGD 600 - 1,000 / Month",
+        "radarDesc": "2-year employment contract with full insurance coverage, accommodation, and meals provided.",
+        "title": "Domestic Worker / Caregiver",
+        "location": "Singapore",
+        "jobDescription": "The worker will be responsible for household chores, caring for elderly/children, and other domestic duties as assigned. Skills required include household management, caregiving, and cooking.",
+        "requirements": [
+          "Female, 23-40 years old",
+          "Minimum secondary education",
+          "Basic English/Malay/Indonesian language skills",
+          "Minimum 2 years of experience",
+          "Minimum height 147 cm"
+        ],
+        "benefits": [
+          "Gross salary SGD 600 - SGD 1,000 per month",
+          "Accommodation provided",
+          "Meals provided",
+          "Insurance coverage provided",
+          "Typically 2-4 rest days per month",
+          "Return ticket provided by employer after contract completion"
+        ]
+      }
+    }
+  },
+  {
+    "id": "spa-therapist-turkey",
+    "track": "skilled",
+    "image": "/images/spa.jpg",
+    "translations": {
+      "id": {
+        "country": "Turki",
+        "program": "Spa Therapist",
+        "salary": "USD 700 - 750 / Bulan",
+        "radarDesc": "Program seasonal elit 6-8 bulan untuk Spa Therapist di Turki.",
+        "title": "Spa Therapist & Turkish Bath Scrub Attendant",
+        "location": "Turki (Antalya / Alanya / Manavgat / Kemer)",
+        "jobDescription": "Program kerja musiman (seasonal) selama 6-8 bulan dengan penempatan di berbagai hotel mewah dan spa di area pariwisata elit Turki. Posisi ini menuntut standar pelayanan dan keramahtamahan internasional tingkat tinggi.",
+        "requirements": [
+          "Pengalaman 1–3 tahun sesuai posisi",
+          "Memiliki kemampuan berkomunikasi dalam Bahasa Inggris",
+          "Usia sekitar 25–35 tahun untuk beberapa kebutuhan",
+          "Penampilan dan service attitude penting"
+        ],
+        "benefits": [
+          "Gaji USD 700–750 (Setara Rp 13 Jt) per bulan",
+          "Bonus tambahan USD 1 per massage",
+          "Akomodasi (tempat tinggal) disediakan",
+          "Makan disediakan",
+          "Transportasi lokal (Local transport) disediakan",
+          "Asuransi kesehatan (SGK insurance)"
+        ]
+      },
+      "en": {
+        "country": "Turkey",
+        "program": "Spa Therapist",
+        "salary": "USD 700 - 750 / Month",
+        "radarDesc": "Elite 6-8 months seasonal program for Spa Therapists in Turkey.",
+        "title": "Spa Therapist & Turkish Bath Scrub Attendant",
+        "location": "Turkey (Antalya / Alanya / Manavgat / Kemer)",
+        "jobDescription": "A 6-8 month seasonal employment program placed in luxury hotels and spas across Turkey's elite tourism areas. This position requires high international service and hospitality standards.",
+        "requirements": [
+          "1-3 years of relevant experience",
+          "English speaking proficiency",
+          "Age between 25-35 years old",
+          "Good appearance and excellent service attitude"
+        ],
+        "benefits": [
+          "Salary USD 700–750 (Approx. IDR 13M) per month",
+          "Additional bonus USD 1 per massage",
+          "Accommodation provided",
+          "Meals provided",
+          "Local transportation provided",
+          "SGK health insurance coverage"
+        ]
+      }
+    }
+  },
+  {
+    "id": "hotel-operations-turkey",
+    "track": "skilled",
+    "image": "/images/hospitality.jpg",
+    "translations": {
+      "id": {
+        "country": "Turki",
+        "program": "Hotel Operations",
+        "salary": "USD 650 / Bulan NETT",
+        "radarDesc": "Program seasonal 6-8 bulan. Tersedia kuota 200 orang untuk Housekeeping, Waiter, Steward, dll.",
+        "title": "Hotel Operations",
+        "location": "Turki (Berbagai Hotel)",
+        "jobDescription": "Program kerja musiman (seasonal) perhotelan selama 6-8 bulan dengan penempatan di berbagai hotel di Turki. Terbuka total kuota 200 orang untuk berbagai divisi perhotelan (Housekeeping, Steward, Cook Assistant, Bartender, Butler, Bellboy/girl, dan Waiter/ss).",
+        "requirements": [
+          "Pria dan Wanita (Kuota: Housekeeping 15 Pria/35 Wanita, Steward 50 Pria, Waiter/ss 25 Pria/25 Wanita, Lain-lain 50 orang)",
+          "Pengalaman di bidang hospitality atau operasional perhotelan",
+          "Kemampuan bahasa asing dasar sesuai kebutuhan posisi",
+          "Siap menjalani kontrak seasonal 6-8 bulan"
+        ],
+        "benefits": [
+          "Gaji USD 650 per bulan NETT (Setara Rp 11.600.000)",
+          "Akomodasi disediakan untuk staf",
+          "Fasilitas makan di tempat kerja",
+          "Transportasi lokal di area hotel",
+          "Penempatan resmi di hotel-hotel terkemuka Turki"
+        ]
+      },
+      "en": {
+        "country": "Turkey",
+        "program": "Hotel Operations",
+        "salary": "USD 650 / Month NETT",
+        "radarDesc": "6-8 months seasonal program. 200 quota available for Housekeeping, Waiter, Steward, and more.",
+        "title": "Hotel Operations",
+        "location": "Turkey (Various Hotels)",
+        "jobDescription": "A 6-8 month seasonal hotel operations program with placement in various hotels across Turkey. A total quota of 200 people is open for multiple hospitality divisions including Housekeeping, Steward, Cook Assistant, Bartender, Butler, Bellboy/girl, and Waiter/ss.",
+        "requirements": [
+          "Male and Female (Quota: Housekeeping 15M/35F, Steward 50M, Waiter/ss 25M/25F, Others 50)",
+          "Experience in hospitality or hotel operations",
+          "Basic foreign language skills according to the position",
+          "Ready for a 6-8 month seasonal contract"
+        ],
+        "benefits": [
+          "Salary USD 650 per month NETT (Approx. IDR 11,600,000)",
+          "Accommodation provided for staff",
+          "Meals provided at the workplace",
+          "Local transportation within the hotel area",
+          "Official placement in leading hotels in Turkey"
+        ]
+      }
+    }
+  },
+  {
+    "id": "general-worker-malaysia",
+    "track": "general",
+    "image": "/images/housemaid.jpg",
+    "translations": {
+      "id": {
+        "country": "Malaysia",
+        "program": "General Worker",
+        "salary": "Rp 7 - 8 Juta / Bulan",
+        "radarDesc": "Jalur resmi KP2MI tanpa biaya penempatan (Zero Cost). Termasuk asrama dan sertifikasi BNSP.",
+        "title": "General Worker (Jalur Resmi KP2MI)",
+        "location": "Malaysia",
+        "jobDescription": "Kesempatan kerja resmi ke Malaysia melalui P3MI berlisensi dengan estimasi keberangkatan 2-3 bulan sejak wawancara awal. Proses meliputi wawancara user, penandatanganan kontrak kerja, dan pelatihan intensif di asrama untuk mendapatkan sertifikasi BNSP sebelum keberangkatan.",
+        "requirements": [
+          "Wanita, usia 21–40 tahun",
+          "Minimal SD/sederajat",
+          "Sehat fisik dan mental",
+          "Tidak memerlukan kursus bahasa khusus",
+          "Serius, disiplin, sopan, dan siap mengikuti prosedur"
+        ],
+        "benefits": [
+          "Penghasilan Rp 7.000.000 – Rp 8.000.000 / bulan (TERIMA BERSIH)",
+          "Tanpa biaya penempatan (Zero Cost)",
+          "Asrama gratis setelah kontrak kerja",
+          "Kontrak kerja resmi sebelum keberangkatan",
+          "Pelatihan & Sertifikasi BNSP"
+        ]
+      },
+      "en": {
+        "country": "Malaysia",
+        "program": "General Worker",
+        "salary": "IDR 7 - 8 Million / Month",
+        "radarDesc": "Official KP2MI zero-cost placement track. Includes dormitory and BNSP certification.",
+        "title": "General Worker (Official KP2MI Track)",
+        "location": "Malaysia",
+        "jobDescription": "Official employment opportunity in Malaysia through a licensed P3MI. The process takes an estimated 2-3 months from the initial interview and includes user interviews, contract signing, and intensive dormitory training to obtain BNSP certification prior to departure.",
+        "requirements": [
+          "Female, 21-40 years old",
+          "Minimum elementary school (SD) equivalent",
+          "Physically and mentally healthy",
+          "No specific language courses required",
+          "Serious, disciplined, polite, and ready to follow procedures"
+        ],
+        "benefits": [
+          "Net income IDR 7,000,000 - 8,000,000 / month",
+          "Zero placement fee",
+          "Free dormitory after signing the employment contract",
+          "Official work contract signed prior to departure",
+          "BNSP Competency Training & Certification provided"
+        ]
+      }
+    }
+  }
+]

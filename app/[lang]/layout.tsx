@@ -5,6 +5,7 @@ import { Toaster } from 'sonner';
 
 import SmoothScroll from '@/components/providers/SmoothScroll';
 import Navbar from '@/components/layout/Navbar';
+import Footer from '@/components/layout/Footer';
 import { getDictionary, type Locale } from '@/dictionaries/get-dictionary';
 import '@/app/globals.css';
 
@@ -53,15 +54,11 @@ export default async function RootLayout({
         suppressHydrationWarning
       >
         <SmoothScroll>
-          {/* Inject Navbar di atas seluruh halaman */}
           <Navbar lang={lang} dict={dict} />
-          
-          {/* Main content akan di-render di sini */}
           <main className="flex-1 w-full relative">
             {children}
           </main>
-
-          {/* Toast Notification Provider */}
+          <Footer lang={lang} dict={dict} />
           <Toaster 
             position="top-right" 
             richColors 

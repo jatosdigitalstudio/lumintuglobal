@@ -1,11 +1,11 @@
 {
   "metadata": {
     "title": "Lumintu Global | Worldwide Employment Partner",
-    "description": "Program Penyaluran Kerja Luar Negeri Resmi, Terlatih, dan Berizin bersama Kadin Kabupaten Sukabumi."
+    "description": "Program Penyaluran Kerja Luar Negeri Resmi, Terlatih, dan Berizin bersama Kadin Kota Sukabumi."
   },
   "topbar": {
     "announcement": "Mitra Resmi Penempatan:",
-    "partnerName": "Kadin Kabupaten Sukabumi",
+    "partnerName": "Kadin Kota Sukabumi",
     "hotlineLabel": "Hotline Seleksi:",
     "hotlineNumber": "0812-1625-1213",
     "entityName": "PT Limpah Luhur Lumintu"
@@ -32,7 +32,7 @@
         "workflowDesc": "4 tahapan resmi dari skrining hingga keberangkatan.",
         "docsTitle": "Syarat Dokumen",
         "docsDesc": "Persiapan MCU, paspor, dan sertifikasi bahasa.",
-        "financeTitle": "Transparansi Biaya & Pembiayaan",
+        "financeTitle": "Pembiayaan",
         "financeDesc": "Rincian biaya mandiri dan opsi talangan dana keberangkatan."
     },
     "blog": "Blog & Berita",
@@ -85,6 +85,262 @@
         "cta": "Eksplorasi Jalur General"
     }
     },
+    "jobRadar": {
+        "sectionTitle": "Penempatan Global",
+        "sectionSubtitle": "Peluang karir resmi di negara maju dengan standar kesejahteraan tinggi dan perlindungan hukum penuh.",
+        "viewAll": "Lihat Semua Negara",
+        "exploreLabel": "Jelajahi Lowongan"
+    },
+"placementRoadmap": {
+  "badge": "Alur Penempatan",
+  "title": "Proses Transparan & Terstruktur",
+  "subtitle": "Dari wawancara awal hingga keberangkatan, kami memastikan setiap tahapan berjalan sesuai prosedur resmi dan standar hukum yang berlaku.",
+  "steps": [
+    {
+      "num": "01",
+      "title": "Wawancara & Seleksi",
+      "desc": "Proses seleksi awal secara online maupun offline untuk mencocokkan kualifikasi kandidat dengan kriteria pemberi kerja luar negeri."
+    },
+    {
+      "num": "02",
+      "title": "Kontrak Kerja Resmi",
+      "desc": "Penandatanganan kontrak kerja transparan yang melindungi hak, kewajiban, serta menjamin standar gaji kandidat sebelum pelatihan."
+    },
+    {
+      "num": "03",
+      "title": "Pelatihan & Sertifikasi",
+      "desc": "Pembekalan bahasa dan kompetensi teknis di asrama hingga mendapatkan sertifikasi resmi (BNSP atau setara) sesuai bidang kerja."
+    },
+    {
+      "num": "04",
+      "title": "Keberangkatan",
+      "desc": "Pengurusan kelengkapan pengajuan visa, medical check-up, dan dokumen imigrasi hingga kandidat terbang ke negara tujuan."
+    }
+  ]
+},
+"faq": {
+  "badge": "Pusat Informasi",
+  "title": "Pertanyaan Umum",
+  "subtitle": "Temukan jawaban cepat mengenai prosedur, legalitas, dan persyaratan program penempatan luar negeri Lumintu Global.",
+  "contactCta": "Punya pertanyaan lain? Hubungi Kami",
+  "items": [
+    {
+      "q": "Apakah program ini resmi dan aman secara hukum?",
+      "a": "Ya, 100% resmi. PT Limpah Luhur Lumintu (Lumintu Global) beroperasi sebagai mitra resmi Kadin Kota Sukabumi dan seluruh proses penempatan terdaftar di bawah pengawasan BP2MI serta Kementerian Ketenagakerjaan RI."
+    },
+    {
+      "q": "Apakah ada biaya pendaftaran atau calo di awal?",
+      "a": "Kami menerapkan sistem transparansi penuh. Kami tidak memungut 'biaya calo'. Beberapa program seperti General Worker ke Malaysia (Jalur KP2MI) bahkan menerapkan sistem Zero Cost (Tanpa Biaya Penempatan). Untuk jalur lain, rincian biaya resmi akan dijelaskan di awal sebelum Anda tanda tangan kontrak."
+    },
+    {
+      "q": "Apakah wajib memiliki sertifikat bahasa asing sebelum mendaftar?",
+      "a": "Tergantung jalur yang dipilih. Jalur General Worker (seperti Malaysia/Timur Tengah) umumnya tidak mensyaratkan sertifikat bahasa. Sedangkan untuk Jalur Formal/Skilled (Jepang/Jerman), jika Anda belum punya, kami menyediakan program pelatihan bahasa terpadu di asrama."
+    },
+    {
+      "q": "Jika pendidikan terakhir saya hanya SMP atau SMA, apakah bisa mendaftar?",
+      "a": "Tentu saja. Kami memiliki Jalur Vokasi (General Worker) yang dirancang khusus untuk lulusan SMP/SMA/SMK sederajat. Anda akan diberikan pelatihan keahlian dasar sebelum diberangkatkan."
+    },
+    {
+      "q": "Berapa lama estimasi proses dari mendaftar hingga terbang?",
+      "a": "Proses bervariasi tergantung negara tujuan dan kelengkapan dokumen. Untuk jalur General Worker (misal: Malaysia) estimasi 2-3 bulan. Untuk jalur Skilled Worker (misal: Jepang/Jerman) bisa memakan waktu 4-8 bulan karena melibatkan masa pelatihan bahasa dan sertifikasi kompetensi."
+    }
+  ]
+},
+"footer": {
+  "ctaTitle": "Mulai Karir Global Mu Hari Ini.",
+  "ctaButton": "Konsultasi Gratis",
+  "menus": [
+    {
+      "title": "Perusahaan",
+      "links": [
+        { "name": "Tentang Kami", "href": "/tentang-kami" },
+        { "name": "Legalitas & Izin", "href": "/legalitas" },
+        { "name": "Kemitraan", "href": "/kemitraan" }
+      ]
+    },
+    {
+      "title": "Program",
+      "links": [
+        { "name": "Skilled Worker", "href": "/peluang-kerja/skilled" },
+        { "name": "General Worker", "href": "/peluang-kerja/general" },
+        { "name": "Pelatihan Terpadu", "href": "/pelatihan" }
+      ]
+    },
+    {
+      "title": "Bantuan",
+      "links": [
+        { "name": "Panduan Proses", "href": "/panduan" },
+        { "name": "Tanya Jawab (FAQ)", "href": "/faq" },
+        { "name": "Hubungi Kami", "href": "/hubungi-kami" }
+      ]
+    }
+  ],
+  "contact": {
+    "title": "Kontak",
+    "email": "info@lumintuglobal.com",
+    "phone": "+62 812-1625-1213",
+    "address": "Kota Sukabumi, Jawa Barat, Indonesia"
+  },
+ "brandDesc": "PT Limpah Luhur Lumintu (Lumintu Global). Mitra resmi Kadin Kota Sukabumi untuk penempatan tenaga kerja profesional dan terampil ke luar negeri dengan standar hukum penuh.",
+  "officialPartner": "Mitra Resmi",
+  "copyright": "© 2026 PT Limpah Luhur Lumintu. Hak Cipta Dilindungi.",
+  "privacyPolicy": "Kebijakan Privasi",
+  "termsConditions": "Syarat & Ketentuan"
+},
+"jobList": {
+  "badge": "Katalog Karir",
+  "title": "Eksplorasi Peluang Kerja",
+  "subtitle": "Temukan posisi penempatan resmi yang sesuai dengan kualifikasi dan tujuan karir Anda di kancah global.",
+  "filters": {
+    "all": "Semua Jalur",
+    "skilled": "Jalur Formal (Skilled)",
+    "general": "Jalur Vokasi (General)"
+  },
+  "exploreLabel": "Jelajahi Lowongan"
+},
+"registration": {
+  "title": "Daftar & Lamar Pekerjaan",
+  "subtitle": "Silakan lengkapi data diri Anda untuk melanjutkan proses aplikasi",
+  "applyingFor": "Posisi yang Dilamar",
+  "fields": {
+    "name": "Nama Lengkap sesuai KTP",
+    "phone": "Nomor WhatsApp aktif",
+    "age": "Usia (Tahun)",
+    "education": "Pendidikan Terakhir (SMP/SMA/S1)",
+    "domicile": "Kota Domisili saat ini"
+  },
+  "terms": "Saya telah membaca dan menyetujui Syarat & Ketentuan serta Kebijakan Privasi.",
+  "submit": "Kirim Pendaftaran (via WhatsApp)",
+  "whatsappNumber": "6282124981959", 
+  "whatsappGreeting": "Halo Tim Lumintu Global, saya ingin mendaftar untuk posisi yang tersedia di website:"
+},
+"guide": {
+  "title": "Panduan & Prosedur",
+  "subtitle": "Pahami setiap tahapan, persyaratan dokumen, dan struktur biaya untuk persiapan keberangkatan Anda bersama Lumintu Global.",
+  "workflow": {
+    "title": "Alur Kerja",
+    "steps": [
+      { "title": "Pendaftaran & Wawancara", "desc": "Wawancara awal untuk pencocokan kualifikasi dengan kebutuhan pemberi kerja (user)." },
+      { "title": "Tanda Tangan Kontrak", "desc": "Kandidat yang lolos akan menandatangani kontrak kerja resmi sebelum keberangkatan." },
+      { "title": "Pelatihan & Asrama", "desc": "Mengikuti pelatihan kompetensi/bahasa di asrama sesuai standar negara tujuan." },
+      { "title": "Pemberkasan & Visa", "desc": "Pengurusan dokumen perjalanan, Medical Check-Up (MCU), dan Visa kerja." },
+      { "title": "Keberangkatan", "desc": "Penerbangan ke negara tujuan dan masa orientasi setibanya di tempat kerja." }
+    ]
+  },
+  "documents": {
+    "title": "Persyaratan Dokumen Dasar",
+    "items": [
+      "KTP dan Kartu Keluarga (KK)",
+      "Ijazah Terakhir (Asli)",
+      "Akta Kelahiran",
+      "Surat Izin Keluarga / Suami / Istri (Bermaterai)",
+      "Surat Keterangan Catatan Kepolisian (SKCK)",
+      "Paspor (Bisa disusulkan jika belum memiliki)"
+    ]
+  },
+  "finance": {
+    "title": "Transparansi Biaya",
+    "desc": "Lumintu Global menjunjung tinggi integritas dan transparansi penuh. Kami mengadopsi sistem tanpa biaya tersembunyi (No Hidden Fees).",
+    "points": [
+      { "title": "Program Zero Cost", "desc": "Untuk jalur tertentu seperti General Worker ke Malaysia (Jalur KP2MI), pelamar tidak dikenakan biaya penempatan sama sekali." },
+      { "title": "Program Skilled Worker", "desc": "Untuk negara seperti Jepang atau Jerman, rincian biaya pendaftaran, pelatihan bahasa, hingga pengurusan visa akan dijelaskan secara rinci di atas kertas sebelum Anda menyetujui kontrak." }
+    ]
+  }
+},
+"about": {
+  "badge": "Profil Perusahaan",
+  "title": "Membangun Karir Global, Mengawal Masa Depan",
+  "subtitle": "PT Limpah Luhur Lumintu (Lumintu Global) berdedikasi untuk membuka akses penempatan tenaga kerja profesional dan vokasi Indonesia ke pasar internasional secara legal, aman, dan bermartabat.",
+  "vision": {
+    "title": "Visi Kami",
+    "desc": "Menjadi agen penempatan kerja luar negeri (P3MI) terdepan dan terpercaya di Indonesia yang mengutamakan pelindungan, kesejahteraan, serta pengembangan kompetensi Pekerja Migran Indonesia (PMI)."
+  },
+  "mission": {
+    "title": "Misi Kami",
+    "items": [
+      "Menyediakan peluang kerja luar negeri yang 100% resmi dan terverifikasi.",
+      "Memberikan fasilitas asrama, pelatihan teknis, dan sertifikasi bahasa yang komprehensif.",
+      "Menjamin proses penempatan yang transparan dan memberantas praktik calo (No Hidden Fees).",
+      "Bekerja sama erat dengan instansi pemerintah, BP2MI, dan mitra strategis daerah."
+    ]
+  },
+  "legality": {
+    "title": "Legalitas & Kepatuhan Hukum",
+    "desc": "Kami tunduk dan patuh pada undang-undang Republik Indonesia. Seluruh proses penempatan kami diawasi langsung oleh pemerintah untuk memastikan hak dan keamanan Anda terjamin dari berangkat hingga pulang ke tanah air.",
+    "licenses": [
+      "Izin Resmi Kemenaker RI",
+      "Pengawasan Penuh BP2MI",
+      "Sistem Terintegrasi SISKOP2MI"
+    ]
+  },
+  "partnership": {
+    "badge": "Mitra Strategis",
+    "title": "Kadin Kota Sukabumi",
+    "desc": "Lumintu Global bangga menjadi mitra resmi Kamar Dagang dan Industri (Kadin) Kota Sukabumi. Sinergi ini dirancang khusus untuk memajukan perekonomian daerah, mengentaskan pengangguran, dan meningkatkan daya saing sumber daya manusia Sukabumi di kancah global."
+  }
+},
+"contact": {
+  "badge": "Hubungi Kami",
+  "title": "Mari Mulai Perjalanan Karir Global Anda",
+  "subtitle": "Tim Lumintu Global siap membantu Anda. Kunjungi kantor kami di Sukabumi atau hubungi layanan pelanggan untuk konsultasi proses penempatan resmi.",
+  "info": {
+    "addressTitle": "Kantor Pusat",
+    "address": "Kota Sukabumi, Jawa Barat, Indonesia",
+    "phoneTitle": "Telepon & WhatsApp",
+    "phone": "+62 812-1625-1213",
+    "emailTitle": "Email Resmi",
+    "email": "info@lumintuglobal.com"
+  },
+  "cta": "Butuh bantuan cepat? Tim dukungan kami aktif pada jam kerja (08:00 - 17:00 WIB)."
+},
+"programs": {
+  "skilled": {
+    "badge": "Jalur Formal",
+    "title": "Skilled Worker Program",
+    "description": "Program penempatan tenaga kerja profesional bersertifikat. Ditujukan bagi individu dengan keahlian khusus, pendidikan tinggi, atau sertifikasi vokasi tingkat lanjut yang siap bersaing di pasar global (seperti SSW Jepang, Perawat Jerman, atau Hospitality elit).",
+    "reqTitle": "Kualifikasi Umum",
+    "requirements": [
+      "Pendidikan minimal SMA/SMK, Diploma, atau Sarjana",
+      "Memiliki keahlian spesifik atau sertifikasi profesi",
+      "Kemampuan bahasa asing (tergantung negara tujuan)",
+      "Pengalaman kerja di bidang terkait (1-3 tahun)"
+    ],
+    "flowTitle": "Alur Aplikasi",
+    "flow": [
+      { "title": "Pendaftaran & Verifikasi", "desc": "Seleksi awal profil dan dokumen kredensial." },
+      { "title": "Wawancara User", "desc": "Wawancara langsung dengan representatif perusahaan dari luar negeri." },
+      { "title": "Matching & Kontrak", "desc": "Penandatanganan kontrak kerja resmi setelah dinyatakan lolos." },
+      { "title": "Pelatihan Bahasa (Jika Perlu)", "desc": "Pelatihan intensif untuk mencapai level bahasa yang disyaratkan." },
+      { "title": "Keberangkatan", "desc": "Pengurusan Visa kerja dan penerbangan." }
+    ],
+    "jobsTitle": "Lowongan Skilled Worker Tersedia"
+  },
+  "general": {
+    "badge": "Jalur Vokasi",
+    "title": "General Worker Program",
+    "description": "Program penempatan tenaga kerja umum dan vokasi dasar melalui jalur resmi pemerintah (Zero Cost). Dirancang khusus untuk sektor manufaktur, konstruksi, perkebunan, dan asisten rumah tangga dengan proses yang cepat dan transparan.",
+    "reqTitle": "Kualifikasi Umum",
+    "requirements": [
+      "Pendidikan minimal SD / SMP / Sederajat",
+      "Kondisi fisik prima dan sehat mental",
+      "Usia mulai dari 18 hingga 40 tahun (tergantung posisi)",
+      "Tidak memerlukan sertifikasi bahasa asing yang rumit",
+      "Siap bekerja keras dan mematuhi aturan pemberi kerja"
+    ],
+    "flowTitle": "Alur Aplikasi",
+    "flow": [
+      { "title": "Pendaftaran Dasar", "desc": "Pengumpulan KTP, KK, dan dokumen pendukung dasar." },
+      { "title": "Medical Check-Up", "desc": "Pemeriksaan kesehatan menyeluruh di klinik bersertifikat." },
+      { "title": "Pelatihan & Asrama", "desc": "Masuk asrama untuk pelatihan fisik, mental, dan keterampilan dasar." },
+      { "title": "Sertifikasi BNSP", "desc": "Uji kompetensi resmi dari Badan Nasional Sertifikasi Profesi." },
+      { "title": "Pemberangkatan", "desc": "Proses paspor, Visa, dan penerbangan ke negara tujuan." }
+    ],
+    "jobsTitle": "Lowongan General Worker Tersedia"
+  },
+  "ctaTitle": "Siap Memulai Karir Anda?",
+  "ctaDesc": "Tim representatif Lumintu Global siap memandu langkah pertama Anda menuju masa depan yang lebih baik.",
+  "ctaButton": "Mulai Pendaftaran"
+},
   "common": {
     "language": "Bahasa",
     "contactWhatsApp": "Konsultasi WhatsApp",

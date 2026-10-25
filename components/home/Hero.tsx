@@ -202,7 +202,7 @@ export default function Hero({ lang, dict }: HeroProps) {
   if (!dict || !dict.hero) return <section className="h-[80vh] w-full bg-white" />;
 
   return (
-    <section className="relative w-full bg-white h-auto lg:h-[calc(100vh-76px)] min-h-[650px] flex items-center overflow-hidden py-10 lg:py-0">
+    <section className="relative w-full bg-blue/10 h-auto lg:h-[calc(100vh-76px)] min-h-[650px] flex items-center overflow-hidden py-10 lg:py-0">
       
       {/* Container 1600px tanpa padding di LG ke atas */}
       <div className="w-full max-w-[1600px] mx-auto px-5 md:px-12 lg:px-0">
@@ -278,7 +278,7 @@ export default function Hero({ lang, dict }: HeroProps) {
               {/* Aspirational Collage Image Masked in Arch[cite: 5] */}
               <div className="relative w-full h-full overflow-hidden rounded-t-[180px] lg:rounded-t-[240px] rounded-b-[40px] shadow-sm">
                 <Image
-                  src="/images/hero-lumintu.jpg" // Menggunakan visual cinematic "dream jobs overseas" (image_6.png)
+                  src="/images/global-worker.webp" // Menggunakan visual cinematic "dream jobs overseas" (image_6.png)
                   alt="Ragam karir impian di luar negeri bersama Lumintu Global"
                   fill
                   priority
