@@ -1,5 +1,5 @@
 import { getDictionary, type Locale } from '@/dictionaries/get-dictionary';
-import TermsClient from './TermsClient';
+import TermsClient from '@/components/pages/TermsClient';
 
 type PageProps = {
   params: Promise<{ lang: string }> | { lang: string };
