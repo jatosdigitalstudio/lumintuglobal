@@ -6,16 +6,6 @@ import { ArrowRight, Mail, MapPin, Phone } from 'lucide-react';
 import { FiInstagram, FiLinkedin } from 'react-icons/fi';
 import { motion } from 'framer-motion';
 
-interface FooterLink {
-  name: string;
-  href: string;
-}
-
-interface FooterMenu {
-  title: string;
-  links: FooterLink[];
-}
-
 interface FooterProps {
   lang: string;
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -27,9 +17,36 @@ export default function Footer({ lang, dict }: FooterProps) {
 
   const ft = dict.footer;
 
+  // 1. KUNCI NAVIGASI AMAN: Hanya arahkan ke halaman yang sudah kita buat malam ini.
+  // Menggunakan label dari dict.nav agar terjemahan tetap berjalan.
+  const safeMenus = [
+    {
+      title: lang === 'id' ? 'Peluang Kerja' : 'Job Opportunities',
+      links: [
+        { name: 'Skilled Worker', href: '/peluang-kerja/skilled' },
+        { name: 'General Worker', href: '/peluang-kerja/general' },
+        { name: lang === 'id' ? 'Semua Lowongan' : 'All Jobs', href: '/peluang-kerja' },
+      ]
+    },
+    {
+      title: dict.nav?.guide || 'Panduan',
+      links: [
+        { name: dict.nav?.guideMenu?.workflowTitle || 'Alur Proses', href: '/panduan#alur' },
+        { name: dict.nav?.guideMenu?.docsTitle || 'Persyaratan Dokumen', href: '/panduan#dokumen' },
+        { name: dict.nav?.guideMenu?.financeTitle || 'Transparansi Biaya', href: '/panduan#biaya' },
+      ]
+    },
+    {
+      title: lang === 'id' ? 'Perusahaan' : 'Company',
+      links: [
+        { name: dict.nav?.aboutMenu?.profileTitle || 'Profil Perusahaan', href: '/tentang-kami' },
+        { name: dict.nav?.aboutMenu?.contactTitle || 'Hubungi Kami', href: '/kontak' },
+      ]
+    }
+  ];
+
   return (
     <footer className="w-full bg-[#0f172a] pt-20 lg:pt-32 pb-8 overflow-hidden rounded-t-[2.5rem] lg:rounded-t-[4rem]">
-      {/* Memori Layout: max-w-[1600px] presisi */}
       <div className="w-full max-w-[1600px] mx-auto px-5 md:px-12 lg:px-0">
         <div className="w-full lg:px-12 xl:px-16 2xl:px-20">
           
@@ -68,7 +85,6 @@ export default function Footer({ lang, dict }: FooterProps) {
             {/* Brand Info & Partner Logo (Span 4) */}
             <div className="lg:col-span-4 flex flex-col items-start pr-0 lg:pr-12">
               <Link href={`/${lang}`} className="mb-6 inline-block relative w-52 h-16">
-                {/* Logo Lumintu HD - Gunakan Fill agar tidak blur terkompresi */}
                 <Image 
                   src="/logo/logo-lumintuglobal-main-white.png" 
                   alt="Lumintu Global" 
@@ -88,7 +104,6 @@ export default function Footer({ lang, dict }: FooterProps) {
                   {ft.officialPartner ?? 'Mitra Resmi'}
                 </span>
                 <div className="relative w-full h-10">
-                  {/* Logo Kadin HD */}
                   <Image 
                     src="/logo/logo-kadinsukabumi.png" 
                     alt="Kadin Kota Sukabumi" 
@@ -100,9 +115,9 @@ export default function Footer({ lang, dict }: FooterProps) {
               </div>
             </div>
 
-            {/* Menu Links (Span 5) */}
+            {/* Menu Links (Span 5 - Menggunakan Data AMAN) */}
             <div className="lg:col-span-5 grid grid-cols-2 sm:grid-cols-3 gap-8 lg:px-4">
-              {ft.menus.map((menu: FooterMenu, idx: number) => (
+              {safeMenus.map((menu, idx) => (
                 <div key={idx} className="flex flex-col">
                   <h4 className="font-text font-bold text-[13px] text-white tracking-widest uppercase mb-6">
                     {menu.title}
@@ -129,7 +144,6 @@ export default function Footer({ lang, dict }: FooterProps) {
                 {ft.contact.title}
               </h4>
               
-              {/* Contact List */}
               <ul className="flex flex-col gap-5 mb-8">
                 <li>
                   <a href={`mailto:${ft.contact.email}`} className="group flex items-start gap-3 text-slate-400 hover:text-white transition-colors">
@@ -140,7 +154,7 @@ export default function Footer({ lang, dict }: FooterProps) {
                   </a>
                 </li>
                 <li>
-                  <a href={`tel:${ft.contact.phone}`} className="group flex items-start gap-3 text-slate-400 hover:text-white transition-colors">
+                  <a href={`tel:${ft.contact.phone.replace(/[^0-9]/g, '')}`} className="group flex items-start gap-3 text-slate-400 hover:text-white transition-colors">
                     <Phone className="w-5 h-5 shrink-0 mt-0.5 text-slate-500 group-hover:text-green transition-colors" />
                     <span className="font-text text-sm sm:text-[15px] leading-relaxed">
                       {ft.contact.phone}
@@ -157,7 +171,6 @@ export default function Footer({ lang, dict }: FooterProps) {
                 </li>
               </ul>
 
-              {/* Social Icons Pindah Kesini */}
               <div className="flex items-center gap-3">
                 <a href="#" className="flex items-center justify-center w-10 h-10 rounded-full border border-white/10 text-slate-400 hover:text-white hover:border-white/30 hover:bg-white/5 transition-all">
                   <FiInstagram className="w-4 h-4" />
