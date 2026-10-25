@@ -341,6 +341,29 @@
   "ctaDesc": "Tim representatif Lumintu Global siap memandu langkah pertama Anda menuju masa depan yang lebih baik.",
   "ctaButton": "Mulai Pendaftaran"
 },
+"legal": {
+  "terms": {
+    "title": "Syarat dan Ketentuan",
+    "lastUpdated": "Terakhir diperbarui: 25 Oktober 2026",
+    "sections": [
+      { "title": "1. Penerimaan Layanan", "content": "Dengan mengakses dan menggunakan situs web Lumintu Global, Anda menyetujui untuk terikat oleh Syarat dan Ketentuan ini." },
+      { "title": "2. Layanan Kami", "content": "Lumintu Global (PT Limpah Luhur Lumintu) adalah Perusahaan Penempatan Pekerja Migran Indonesia (P3MI) resmi. Kami memfasilitasi informasi lowongan kerja, pendaftaran, dan proses penempatan kerja ke luar negeri secara legal." },
+      { "title": "3. Validitas Data", "content": "Anda menjamin bahwa semua informasi pribadi dan dokumen yang Anda kirimkan melalui formulir pendaftaran adalah benar, akurat, dan merupakan milik Anda secara sah. Pemalsuan dokumen dapat berakibat pada pembatalan proses penempatan." },
+      { "title": "4. Kebijakan Biaya (No Hidden Fees)", "content": "Kami menjunjung transparansi penuh. Informasi mengenai biaya penempatan (termasuk program Zero Cost) akan dijelaskan secara tertulis dan resmi sebelum Anda menandatangani kontrak kerja apapun." },
+      { "title": "5. Perubahan Ketentuan", "content": "Lumintu Global berhak untuk mengubah Syarat dan Ketentuan ini kapan saja demi kepatuhan terhadap peraturan BP2MI/Kemenaker yang baru. Perubahan akan langsung berlaku setelah diunggah ke halaman ini." }
+    ]
+  },
+  "privacy": {
+    "title": "Kebijakan Privasi",
+    "lastUpdated": "Terakhir diperbarui: 25 Oktober 2026",
+    "sections": [
+      { "title": "1. Pengumpulan Data", "content": "Kami mengumpulkan informasi pribadi yang Anda berikan secara sukarela melalui formulir pendaftaran, termasuk namun tidak terbatas pada nama lengkap, nomor WhatsApp, usia, riwayat pendidikan, dan domisili." },
+      { "title": "2. Penggunaan Data", "content": "Data yang dikumpulkan digunakan semata-mata untuk tujuan rekrutmen: mencocokkan Anda dengan lowongan pekerjaan yang tepat, menghubungi Anda untuk wawancara, dan memproses dokumen keberangkatan." },
+      { "title": "3. Pembagian dan Keamanan Data", "content": "Kami sangat menjaga kerahasiaan Anda. Data tidak akan dijual ke pihak ketiga. Data hanya dibagikan kepada calon pemberi kerja di luar negeri dan instansi pemerintah (BP2MI/Kemenaker/Imigrasi) untuk pemrosesan legal." },
+      { "title": "4. Hak Pengguna", "content": "Anda berhak untuk meminta peninjauan, pembaruan, atau penghapusan data pribadi Anda dari database kami kapan saja dengan menghubungi layanan pelanggan resmi Lumintu Global." }
+    ]
+  }
+},
   "common": {
     "language": "Bahasa",
     "contactWhatsApp": "Konsultasi WhatsApp",

@@ -133,7 +133,7 @@ Saya siap untuk mengikuti tahapan verifikasi dan seleksi selanjutnya. Terima kas
               </label>
             </div>
 
-            <button type="submit" className="w-full flex items-center justify-center gap-2 px-8 py-4 rounded-xl bg-[#0d9488] text-white font-text font-bold text-[15px] hover:bg-[#0f766e] active:scale-[0.98] transition-all shadow-md shadow-teal-600/20">
+            <button type="submit" className="w-full flex items-center justify-center gap-2 px-8 py-4 rounded-xl bg-green text-black font-text font-bold text-[15px] hover:bg-blue hover:text-white active:scale-[0.98] transition-all shadow-md shadow-teal-600/20">
               <span>{rg.submit}</span>
               <Send className="w-4 h-4" />
             </button>

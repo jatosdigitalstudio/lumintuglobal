@@ -294,6 +294,29 @@
   },
   "cta": "Need quick help? Our support team is active during working hours (08:00 - 17:00 WIB)."
 },
+"legal": {
+  "terms": {
+    "title": "Terms and Conditions",
+    "lastUpdated": "Last updated: October 25, 2026",
+    "sections": [
+      { "title": "1. Acceptance of Terms", "content": "By accessing and using the Lumintu Global website, you agree to be bound by these Terms and Conditions." },
+      { "title": "2. Our Services", "content": "Lumintu Global (PT Limpah Luhur Lumintu) is an official Indonesian Migrant Worker Placement Company (P3MI). We facilitate job vacancy information, registration, and overseas employment placement processes legally." },
+      { "title": "3. Data Validity", "content": "You guarantee that all personal information and documents submitted through the registration form are true, accurate, and legally yours. Falsification of documents may result in the cancellation of the placement process." },
+      { "title": "4. Fee Policy (No Hidden Fees)", "content": "We uphold full transparency. Information regarding placement fees (including Zero Cost programs) will be explained in writing and officially before you sign any employment contract." },
+      { "title": "5. Changes to Terms", "content": "Lumintu Global reserves the right to change these Terms and Conditions at any time for compliance with new BP2MI/Ministry of Manpower regulations. Changes take effect immediately upon posting." }
+    ]
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: October 25, 2026",
+    "sections": [
+      { "title": "1. Data Collection", "content": "We collect personal information voluntarily provided by you through the registration form, including but not limited to full name, WhatsApp number, age, education history, and domicile." },
+      { "title": "2. Data Usage", "content": "The collected data is used strictly for recruitment purposes: matching you with suitable job vacancies, contacting you for interviews, and processing departure documents." },
+      { "title": "3. Data Sharing and Security", "content": "We fiercely protect your privacy. Data will not be sold to third parties. It is only shared with prospective overseas employers and government agencies (BP2MI/Ministry of Manpower/Immigration) for legal processing." },
+      { "title": "4. User Rights", "content": "You have the right to request a review, update, or deletion of your personal data from our database at any time by contacting official Lumintu Global customer service." }
+    ]
+  }
+},
   "common": {
     "language": "Language",
     "contactWhatsApp": "WhatsApp Inquiries",
