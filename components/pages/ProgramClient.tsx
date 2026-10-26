@@ -43,7 +43,7 @@ export default function ProgramClient({ lang, dict, type, jobs }: ProgramClientP
               animate={{ opacity: 1, y: 0 }}
               className="lg:col-span-7 flex flex-col"
             >
-              <div className={`inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full text-[10px] font-bold tracking-widest uppercase mb-8 self-start ${type === 'skilled' ? 'bg-blue/10 text-blue border border-blue/20' : 'bg-green/10 text-green border border-green/20'}`}>
+              <div className={`inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full text-[10px] font-bold tracking-widest uppercase mb-8 self-start ${type === 'skilled' ? 'bg-blue text-white border border-blue/20' : 'bg-green text-black border border-green/20'}`}>
                 <Briefcase className="w-3.5 h-3.5" />
                 {content.badge}
               </div>

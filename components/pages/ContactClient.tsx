@@ -17,7 +17,7 @@ export default function ContactClient({ lang, dict }: ContactClientProps) {
   return (
     <div className="w-full bg-white flex flex-col">
       
-      <section className="w-full bg-[#0f172a] pt-24 pb-20 lg:pt-32 lg:pb-32 relative overflow-hidden rounded-b-[2.5rem] lg:rounded-b-[4rem] z-10 shadow-sm">
+      <section className="w-full bg-[#0f172a] pt-24 pb-20  lg:pb-32 relative overflow-hidden rounded-b-[2.5rem] lg:rounded-b-[4rem] z-10 shadow-sm">
         <div className="w-full max-w-[1600px] mx-auto px-5 md:px-12 lg:px-20">
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-16 lg:gap-24 items-start">
             
@@ -26,14 +26,14 @@ export default function ContactClient({ lang, dict }: ContactClientProps) {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.7, ease: [0.22, 1, 0.36, 1] }}
-              className="lg:col-span-6 flex flex-col pt-4 lg:pt-8"
+              className="lg:col-span-6 flex flex-col pt-4"
             >
-              <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-blue/10 border border-blue/20 text-[10px] font-bold text-blue tracking-widest uppercase mb-8 lg:mb-12 self-start">
+              <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-blue border border-blue/20 text-[10px] font-bold text-white tracking-widest uppercase mb-8 lg:mb-8 self-start">
                 <MapPin className="w-3.5 h-3.5" />
                 {ct.badge}
               </div>
               
-              <h1 className="font-style font-semibold text-5xl sm:text-6xl lg:text-7xl text-white tracking-tight leading-[1.05] mb-8">
+              <h1 className="font-style font-semibold text-5xl sm:text-6xl text-white tracking-tight leading-[1.05] mb-8">
                 {ct.title}
               </h1>
               

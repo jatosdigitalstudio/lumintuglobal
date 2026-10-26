@@ -44,7 +44,7 @@ export default function Faq({ lang, dict }: FaqProps) {
   };
 
   return (
-    <section className="w-full bg-white py-20 lg:py-32">
+    <section className="w-full bg-blue/10 py-20 lg:py-32">
       {/* Memori Layout: max-w-[1600px] dengan presisi inner padding */}
       <div className="w-full max-w-[1600px] mx-auto px-5 md:px-12 lg:px-0">
         <div className="w-full lg:px-12 xl:px-16 2xl:px-20">
@@ -91,7 +91,7 @@ export default function Faq({ lang, dict }: FaqProps) {
                   transition={{ duration: 0.6, delay: 0.2, ease: [0.22, 1, 0.36, 1] }}
                 >
                   <Link 
-                    href={`/${lang}/hubungi-kami`}
+                    href={`/${lang}/kontak`}
                     className="inline-flex items-center gap-2.5 px-6 py-3.5 rounded-full bg-slate-50 hover:bg-slate-100 border border-slate-200 font-text font-semibold text-sm text-dark transition-colors"
                   >
                     <MessageSquare className="w-4 h-4 text-blue" />

@@ -11,42 +11,43 @@
     "entityName": "PT Limpah Luhur Lumintu"
   },
   "nav": {
-    "home": "Beranda",
-    "jobs": "Peluang Kerja",
-    "jobsMenu": {
-      "categoryTitle": "Kategori Program",
-      "skilledTitle": "Skilled Worker Program",
-      "skilledDesc": "Keperawatan, hospitaliti, IT & teknisi profesional",
-      "skilledBadge": "Formal",
-      "generalTitle": "General Worker Program",
-      "generalDesc": "Manufaktur pabrik, konstruksi, & agrikultur",
-      "generalBadge": "Vokasi",
-      "destinationsTitle": "Destinasi Utama",
-      "japan": "Jepang (SSW & Magang)",
-      "germany": "Jerman (Ausbildung)",
-      "middleEast": "Timur Tengah (Hospitality)",
-      "viewAll": "Lihat Seluruh Lowongan Aktif →"
-    },
-    "guideMenu": {
-        "workflowTitle": "Alur Penempatan",
-        "workflowDesc": "4 tahapan resmi dari skrining hingga keberangkatan.",
-        "docsTitle": "Syarat Dokumen",
-        "docsDesc": "Persiapan MCU, paspor, dan sertifikasi bahasa.",
-        "financeTitle": "Pembiayaan",
-        "financeDesc": "Rincian biaya mandiri dan opsi talangan dana keberangkatan."
-    },
-    "blog": "Blog & Berita",
-    "about": "Tentang Kami",
-    "aboutMenu": {
-      "profileTitle": "Profil & Legalitas",
-      "profileDesc": "PT Limpah Luhur Lumintu",
-      "partnerTitle": "Kemitraan Resmi",
-      "partnerDesc": "Sinergi Kadin Sukabumi",
-      "contactTitle": "Kantor & Layanan",
-      "contactDesc": "Pusat verifikasi & interview fisik"
-    },
-    "ctaRegister": "Daftar Sekarang"
+  "home": "Beranda",
+  "jobs": "Peluang Kerja",
+  "guide": "Panduan",
+  "jobsMenu": {
+    "categoryTitle": "Kategori Program",
+    "skilledTitle": "Skilled Worker Program",
+    "skilledDesc": "Keperawatan, hospitaliti, IT & teknisi profesional",
+    "skilledBadge": "Formal",
+    "generalTitle": "General Worker Program",
+    "generalDesc": "Manufaktur pabrik, konstruksi, & agrikultur",
+    "generalBadge": "Vokasi",
+    "destinationsTitle": "Destinasi Utama",
+    "japan": "Jepang (SSW & Magang)",
+    "germany": "Jerman (Ausbildung)",
+    "middleEast": "Timur Tengah (Hospitality)",
+    "viewAll": "Lihat Seluruh Lowongan Aktif →"
   },
+  "guideMenu": {
+    "workflowTitle": "Alur Penempatan",
+    "workflowDesc": "4 tahapan resmi dari skrining hingga keberangkatan.",
+    "docsTitle": "Syarat Dokumen",
+    "docsDesc": "Persiapan MCU, paspor, dan sertifikasi bahasa.",
+    "financeTitle": "Pembiayaan",
+    "financeDesc": "Rincian biaya mandiri dan opsi talangan dana keberangkatan."
+  },
+  "blog": "Blog & Berita",
+  "about": "Tentang Kami",
+  "aboutMenu": {
+    "profileTitle": "Profil & Legalitas",
+    "profileDesc": "PT Limpah Luhur Lumintu",
+    "partnerTitle": "Kemitraan Resmi",
+    "partnerDesc": "Sinergi Kadin Sukabumi",
+    "contactTitle": "Kantor & Layanan",
+    "contactDesc": "Pusat verifikasi & interview fisik"
+  },
+  "ctaRegister": "Daftar Sekarang"
+},
   "hero": {
     "titlePrefix": "Peluang Kerja",
     "titleHighlight": "Luar Negeri",
@@ -211,7 +212,7 @@
   },
   "terms": "Saya telah membaca dan menyetujui Syarat & Ketentuan serta Kebijakan Privasi.",
   "submit": "Kirim Pendaftaran (via WhatsApp)",
-  "whatsappNumber": "6282124981959", 
+  "whatsappNumber": "6281216251213", 
   "whatsappGreeting": "Halo Tim Lumintu Global, saya ingin mendaftar untuk posisi yang tersedia di website:"
 },
 "guide": {
@@ -281,8 +282,8 @@
 },
 "contact": {
   "badge": "Hubungi Kami",
-  "title": "Mari Mulai Perjalanan Karir Global Anda",
-  "subtitle": "Tim Lumintu Global siap membantu Anda. Kunjungi kantor kami di Sukabumi atau hubungi layanan pelanggan untuk konsultasi proses penempatan resmi.",
+  "title": "Mari Mulai Perjalanan Karir Global Mu",
+  "subtitle": "Tim Lumintu Global siap membantu kamu. Kunjungi kantor kami di Sukabumi atau hubungi layanan pelanggan untuk konsultasi proses penempatan resmi.",
   "info": {
     "addressTitle": "Kantor Pusat",
     "address": "Kota Sukabumi, Jawa Barat, Indonesia",

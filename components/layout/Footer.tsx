@@ -70,7 +70,7 @@ export default function Footer({ lang, dict }: FooterProps) {
               className="shrink-0"
             >
               <Link 
-                href={`/${lang}/hubungi-kami`}
+                href={`/${lang}/kontak`}
                 className="group inline-flex items-center gap-2.5 px-8 py-4 rounded-full bg-blue text-white font-text font-bold text-sm transition-transform hover:scale-[1.02] active:scale-95 shadow-lg shadow-blue/20"
               >
                 <span>{ft.ctaButton}</span>
