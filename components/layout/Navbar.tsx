@@ -78,8 +78,8 @@ export default function Navbar({ lang, dict }: NavbarProps) {
           <div className="hidden sm:flex items-center gap-5 text-[11px] text-white/70">
             <span>
               {dict.topbar?.hotlineLabel}{' '}
-              <a href="tel:081216251213" className="text-white hover:text-green transition-colors font-medium">
-                0812-1625-1213
+              <a href="tel:085713820005" className="text-white hover:text-green transition-colors font-medium">
+                085713820005
               </a>
             </span>
             <span className="h-3 w-px bg-white/20" />
@@ -428,8 +428,8 @@ export default function Navbar({ lang, dict }: NavbarProps) {
                 <Link href={`/${lang}/pendaftaran`} onClick={closeMenus} className="w-full text-center block py-4 rounded-xl bg-green text-dark font-text font-bold text-[15px] shadow-sm">
                   {dict.nav.ctaRegister}
                 </Link>
-                <a href="tel:081216251213" className="w-full text-center block py-3.5 rounded-xl border border-slate-200 bg-white text-dark font-text font-semibold text-sm">
-                  0812-1625-1213
+                <a href="tel:085713820005" className="w-full text-center block py-3.5 rounded-xl border border-slate-200 bg-white text-dark font-text font-semibold text-sm">
+                  085713820005
                 </a>
               </div>
 
